@@ -25,7 +25,7 @@ const Navbar = () => {
                             {navLinks}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost w-28"><Link to='/'><img src="https://i.ibb.co.com/wFN9x9g4/Group-2.png" alt="" /></Link></a>
+                    <a className="w-20"><Link to='/'><img src="https://i.ibb.co.com/wFN9x9g4/Group-2.png" alt="" /></Link></a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal text-lg px-1">
@@ -34,7 +34,6 @@ const Navbar = () => {
                 </div>
                 <div className="navbar-end space-x-4">
                     <p className="text-xl"><HiOutlineShoppingBag /></p>
-                    <p className="text-xl"><FiSearch /></p>
                     <p className="text-xl"><LuUserRound /></p>
                     <a className="btn text-lg border-[#FF3811] text-[#FF3811]">Appointment</a>
                 </div>
