@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "img": "https://example.com/image1.jpg",
+        "img": "https://i.ibb.co.com/BVbfWbLZ/pngwing-1.png",
         "rating": "⭐⭐⭐⭐⭐",
-        "title": "Modern Sofa Set",
+        "title": "Car Engine Plug",
         "price": 299.99
     },
     {
         "id": 2,
-        "img": "https://example.com/image2.jpg",
+        "img": "https://i.ibb.co.com/FLKDG181/5-1.png",
         "rating": "⭐⭐⭐⭐",
-        "title": "Wireless Headphones",
+        "title": "Car Air Filter",
         "price": 99.99
     },
     {
         "id": 3,
-        "img": "https://example.com/image3.jpg",
+        "img": "https://i.ibb.co.com/tMR8KNL4/8-1.png",
         "rating": "⭐⭐⭐⭐⭐",
-        "title": "Smartwatch Pro",
+        "title": "Cools Led Light",
         "price": 149.99
     },
     {
         "id": 4,
-        "img": "https://example.com/image4.jpg",
+        "img": "https://i.ibb.co.com/CKvpLkc4/9-1.png",
         "rating": "⭐⭐⭐⭐",
-        "title": "Gaming Chair",
+        "title": "Cools Led Light",
         "price": 199.99
     },
     {
         "id": 5,
-        "img": "https://example.com/image5.jpg",
+        "img": "https://i.ibb.co.com/9kz2zybV/88-1.png",
         "rating": "⭐⭐⭐⭐⭐",
-        "title": "4K Ultra HD TV",
+        "title": "Cools Led Light",
         "price": 499.99
     },
     {
         "id": 6,
-        "img": "https://example.com/image6.jpg",
+        "img": "https://i.ibb.co.com/jZVrHhDS/6-1.png",
         "rating": "⭐⭐⭐⭐",
-        "title": "Laptop Stand",
+        "title": "Cools Led Light",
         "price": 29.99
     }
 ]
