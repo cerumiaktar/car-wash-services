@@ -3,7 +3,7 @@ import { MdWifiCalling,MdLocationOn } from "react-icons/md";
 
 const Address = () => {
     return (
-        <div className="container mx-auto bg-[#151515] mt-12 mb-12 px-52 py-24 rounded-2xl flex justify-between">
+        <div className="container mx-auto bg-[#151515] mt-12 mb-12 md:px-52 space-y-4 py-24 rounded-2xl flex flex-col md:flex-row justify-between">
             <div className="text-white flex items-center gap-4">
                 <p className="text-4xl text-[#FF3811]"><RiCalendarScheduleFill /></p>
                 <div>
