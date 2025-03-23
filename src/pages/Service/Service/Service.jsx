@@ -7,11 +7,11 @@ const Service = () => {
     return (
         <div>
             <Banner></Banner>
-            <div className="flex container mx-auto">
-                <div className="w-6/12">
+            <div className="flex flex-col md:flex-row container mx-auto">
+                <div className="md:w-6/12">
                     <LeftSide></LeftSide>
                 </div>
-                <div className="w-6/12">
+                <div className="md:w-6/12">
                     <RightSide></RightSide>
                 </div>
             </div>
